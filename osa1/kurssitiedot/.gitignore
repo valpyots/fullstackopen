@@ -1,24 +1,27 @@
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
+On branch main
+Your branch is up-to-date with 'origin/main'.
 
-node_modules
-dist
-dist-ssr
-*.local
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   ../.eslintrc.cjs
+	new file:   ../.gitignore
+	new file:   .eslintrc.cjs
+	new file:   .gitignore
+	new file:   README.md
+	new file:   index.html
+	new file:   package-lock.json
+	new file:   package.json
+	new file:   public/vite.svg
+	new file:   src/App.jsx
+	new file:   src/main.jsx
+	new file:   vite.config.js
 
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
-.DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .gitignore
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../../part1/
+
